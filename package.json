@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "4.6.0",
+    "bootstrap-datepicker": "^1.9.0",
+    "ckeditor": "^4.12.1",
+    "jquery": "^3.6.0",
+    "sweetalert2": "^11.1.4"
+  }
+}
